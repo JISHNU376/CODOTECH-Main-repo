@@ -25,8 +25,8 @@ This repository contains the tasks and projects completed as part of the **Java 
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/codotech-internship.git
-   cd codotech-internship
+   git clone https://github.com/JISHNU376/CODOTECH-Main-repo.git
+   cd CODOTECH-Main-repo
    ```
 2. Install dependencies & build the project:  
    ```bash
