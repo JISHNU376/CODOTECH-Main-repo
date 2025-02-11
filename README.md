@@ -5,11 +5,28 @@ This repository contains the tasks and projects completed as part of the **Java 
 
 ## 📋 Task List  
 ### ✅ **Completed Tasks**  
-- [x] Java OOP Concepts – Encapsulation, Inheritance, Polymorphism  
-- [x] Collections Framework – List, Set, Map Implementations  
-- [x] Multithreading & Exception Handling  
-- [x] JDBC – Connecting Java with MySQL Database  
-- [x] RESTful API Development with Spring Boot  
+- [x] Student Marksheet - Student Marksheet Develop a program that allows a
+teacher to enter students' marks and compute their
+average, highest, and lowest scores. You can use arrays
+or ArrayLists to store the student data..
+- [x] Task Management System - Develop a Task Management System in Java to add,
+update, delete, and mark tasks as completed, with
+attributes like description, due date, priority, and status.
+Implement a TaskManager class to manage tasks,
+provide a console interface for user interaction, and
+enable sorting by priority and due date. Add persistence
+to save/load tasks from a file and implement reminders
+for tasks due within a day.
+- [x] Online Shoping Cart - Design an Online Shopping Cart in Java to let users
+browse products, add them to a cart, and complete
+purchases, with features like product storage, inventory
+management, and payment simulation. Create a Product
+class for item details, a ShoppingCart class to handle
+cart operations, and implement a console-based user
+interface for viewing, adding, and removing items.
+- [x] Shopping Page - Design: Clean and organized layout with product images
+and descriptions it included with products, cart,
+integrated payment option, and some other function.
 
 ### ⏳ **Ongoing Tasks**  
 - [ ] Implementing Authentication & Authorization in Spring Security  
